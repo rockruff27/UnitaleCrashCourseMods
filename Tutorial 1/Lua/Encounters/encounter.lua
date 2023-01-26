@@ -6,6 +6,8 @@ nextwaves = {"bullettest_chaserorb"}
 wavetimer = 4.0
 arenasize = {155, 130}
 
+autolinebreak = true
+
 enemies = {
 "poseur"
 }
