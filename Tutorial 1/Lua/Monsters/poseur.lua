@@ -5,11 +5,11 @@ randomdialogue = {"Random\nDialogue\n1.", "Random\nDialogue\n2.", "Random\nDialo
 
 sprite = "poseur" --Always PNG. Extension is added automatically.
 name = "Creator"
-hp = 200
-atk = 1
-def = 1
-gold = 42
-check = "Check message goes here."
+hp = 50
+atk = 10
+def = 10
+gold = 50
+check = "It posed so often it's now natural."
 dialogbubble = "right" -- See documentation for what bubbles you have available.
 canspare = false
 cancheck = true
